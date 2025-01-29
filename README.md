@@ -179,27 +179,7 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
      -  Avoid extremely short or long courses unless targeting niche audiences.
 
-
-
 ## Summary of Recommendations
-1. Distribution of course types across categories.
-2. Average number of views by category, sub-category, and language.
-3. Most commonly taught skills in today's educational landscape.
-4. Distribution of languages in which courses are created.
-5. Language preferences for each category.
-6. Impact of subtitles on viewer engagement.
-7. Top instructors by category and sub-category.
-8. Relationship between course duration and views.
-9. Impact of skill variety on viewership.
-
-
-
-
-
-
-
-
-
 1. Focus on Courses in high-demand categories like Business and Data Science.
 2. Prioritize English content but expand into Chinese (Simplified) and Spanish for growth.
 3. Enhance Marketing and Finance courses with more skills to align with job market demands.
