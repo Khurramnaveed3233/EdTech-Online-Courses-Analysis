@@ -36,3 +36,21 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 ## 2. Average Number of Views by Category, Sub-Category, and Language
 
 ![table 1](https://github.com/user-attachments/assets/50e70029-5a71-46eb-8d56-10d600f13c46)
+
+- **The table ranks categories by average views. For example:**
+
+  - Business has the highest average views, followed by Data Science and Information Technology.
+
+  - Languages like English and Chinese (Simplified) dominate in terms of views.
+
+- **Insights:**
+
+  - Business and Data Science categories have the highest engagement, indicating strong learner interest.
+
+  - English courses consistently receive the most views, followed by Chinese (Simplified) and Spanish.
+
+- **Recommendation:**
+
+  - Prioritize content creation in English for Business and Data Science categories.
+
+  - Consider expanding Chinese (Simplified) and Spanish content to tap into growing markets.
