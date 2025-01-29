@@ -24,5 +24,11 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 - **Insight:**
   - Courses are the most popular format across all categories, indicating learners prefer shorter, more focused content.
   - **Insight:** Specializations and Professional Certificates are less common but may appeal to learners seeking in-depth knowledge or career advancement.
+ 
+- **Recommendation:**
+
+  - Focus on launching Courses in high-demand categories like Business, Data Science, and Information Technology.
+
+  - For Professional Certificates, target categories like Business and IT, where career-oriented learners are more likely to enroll.
 
 
