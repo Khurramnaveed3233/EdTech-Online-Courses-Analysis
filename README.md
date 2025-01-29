@@ -178,6 +178,23 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
      -  Design courses with 200-400 hours of content for maximum engagement.
 
      -  Avoid extremely short or long courses unless targeting niche audiences.
+
+   ## 9. Impact of Skill Variety on Viewership
+
+   ## Summary of Recommendations
    
+Focus on Courses in high-demand categories like Business and Data Science.
+
+Prioritize English content but expand into Chinese (Simplified) and Spanish for growth.
+
+Enhance Marketing and Finance courses with more skills to align with job market demands.
+
+Ensure courses have 1-2 subtitles to maximize engagement.
+
+Collaborate with top-rated instructors like Daniel and Dr. Abas.
+
+Design courses with 200-400 hours of content for optimal engagement.
+
+Increase skill variety in courses to boost viewership.
   
 
