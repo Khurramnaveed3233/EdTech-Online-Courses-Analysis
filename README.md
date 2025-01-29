@@ -183,18 +183,12 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
    ## Summary of Recommendations
    
-Focus on Courses in high-demand categories like Business and Data Science.
-
-Prioritize English content but expand into Chinese (Simplified) and Spanish for growth.
-
-Enhance Marketing and Finance courses with more skills to align with job market demands.
-
-Ensure courses have 1-2 subtitles to maximize engagement.
-
-Collaborate with top-rated instructors like Daniel and Dr. Abas.
-
-Design courses with 200-400 hours of content for optimal engagement.
-
-Increase skill variety in courses to boost viewership.
+1.Focus on Courses in high-demand categories like Business and Data Science.
+2.Prioritize English content but expand into Chinese (Simplified) and Spanish for growth.
+3.Enhance Marketing and Finance courses with more skills to align with job market demands.
+4.Ensure courses have 1-2 subtitles to maximize engagement.
+5.Collaborate with top-rated instructors like Daniel and Dr. Abas.
+6.Design courses with 200-400 hours of content for optimal engagement.
+7.Increase skill variety in courses to boost viewership.
   
 
