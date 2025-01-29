@@ -21,8 +21,8 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 - **Description:** The bar chart shows the distribution of course types: Courses, Specializations, and Professional Certificates and courses dominate with 746 instances, followed by 
                    specializations (132) and Professional Certificates (fewer in number).
 
-   - **Insight:**
-       - Courses are the most popular format across all categories, indicating learners prefer shorter, more focused content.
-       - **Insight:** Specializations and Professional Certificates are less common but may appeal to learners seeking in-depth knowledge or career advancement.
+- **Insight:**
+  - Courses are the most popular format across all categories, indicating learners prefer shorter, more focused content.
+  - **Insight:** Specializations and Professional Certificates are less common but may appeal to learners seeking in-depth knowledge or career advancement.
 
 
