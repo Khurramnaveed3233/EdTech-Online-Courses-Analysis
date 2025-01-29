@@ -35,7 +35,7 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
 ## 2. Average Number of Views by Category, Sub-Category, and Language
 
-![table 1](https://github.com/user-attachments/assets/50e70029-5a71-46eb-8d56-10d600f13c46)
+![table 1](https://github.com/user-attachments/assets/2ce072b2-6a07-40d7-98da-c61fe3c615af)
 
 - **The table ranks categories by average views. For example:**
 
@@ -54,3 +54,29 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
   - Prioritize content creation in English for Business and Data Science categories.
 
   - Consider expanding Chinese (Simplified) and Spanish content to tap into growing markets.
+
+## 3. Most Commonly Taught Skills
+
+![table2](https://github.com/user-attachments/assets/5ea80b3a-cfcf-4bd1-877e-59ac5136ea3f)
+
+- **The table lists the average number of skills provided per category:**
+
+ - Marketing has the highest average skills (4.58), followed by Finance (3.88) and Business Essentials (3.82).
+
+ - Entrepreneurship has the lowest average skills (2.54).
+
+- **Insights:**
+  
+ - Marketing and Finance courses are skill-intensive, aligning with job market demands.
+
+ - Entrepreneurship courses may need to incorporate more skills to remain competitive.
+
+- **Recommendation:**
+  
+ - Focus on Marketing and Finance courses, as they align with current job market trends.
+
+ - Enhance Entrepreneurship courses by adding more practical skills.
+
+
+
+
