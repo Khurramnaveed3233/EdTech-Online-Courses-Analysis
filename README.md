@@ -157,5 +157,27 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
      - Highlight these instructors in marketing campaigns to attract more learners.
 
-     
+ ## 8. Relationship Between Course Duration and Views
+
+![9 kinechart](https://github.com/user-attachments/assets/64bfb907-9402-4069-95ad-8796f050b104)
+
+ - **The line chart shows the relationship between course duration (in hours) and views:**
+
+     - Courses with 200-400 hours of content have the highest views.
+
+     - Shorter courses (<200 hours) and longer courses (>600 hours) have lower views.
+       
+  - **Insights:**
+
+     -  Learners prefer courses with moderate duration (200-400 hours), balancing depth and time commitment.
+
+     -  Very short or very long courses are less engaging.
+       
+  - **Recommendation:**  
+
+     -  Design courses with 200-400 hours of content for maximum engagement.
+
+     -  Avoid extremely short or long courses unless targeting niche audiences.
+   
   
+
