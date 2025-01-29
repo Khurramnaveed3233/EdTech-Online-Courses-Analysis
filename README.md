@@ -14,3 +14,9 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 7. Top instructors by category and sub-category.
 8. Relationship between course duration and views.
 9. Impact of skill variety on viewership.
+
+## 1. Course Type By Popularity
+
+- **Type:** Bar Chart
+- **Description:** Shows the distribution of course types (Courses, Specializations, Professional Certificates).
+- **Insight:** Courses are the most popular format, followed by Specializations and Professional Certificates.
