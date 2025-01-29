@@ -61,21 +61,21 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
 - **The table lists the average number of skills provided per category:**
 
- - Marketing has the highest average skills (4.58), followed by Finance (3.88) and Business Essentials (3.82).
+   - Marketing has the highest average skills (4.58), followed by Finance (3.88) and Business Essentials (3.82).
 
- - Entrepreneurship has the lowest average skills (2.54).
+   - Entrepreneurship has the lowest average skills (2.54).
 
 - **Insights:**
   
- - Marketing and Finance courses are skill-intensive, aligning with job market demands.
+  - Marketing and Finance courses are skill-intensive, aligning with job market demands.
 
- - Entrepreneurship courses may need to incorporate more skills to remain competitive.
+  - Entrepreneurship courses may need to incorporate more skills to remain competitive.
 
 - **Recommendation:**
   
- - Focus on Marketing and Finance courses, as they align with current job market trends.
+  - Focus on Marketing and Finance courses, as they align with current job market trends.
 
- - Enhance Entrepreneurship courses by adding more practical skills.
+  - Enhance Entrepreneurship courses by adding more practical skills.
 
 
 
