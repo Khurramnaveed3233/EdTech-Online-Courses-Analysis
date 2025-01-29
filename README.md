@@ -77,6 +77,45 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
   - Enhance Entrepreneurship courses by adding more practical skills.
 
+## 4. Distribution of Languages
 
+![pie chart](https://github.com/user-attachments/assets/be06872b-3837-41b3-b0ad-eed81a896456)
+
+- **The pie chart shows the distribution of languages:**
+  
+  - English dominates with 95.91% of courses.
+
+  - Other languages like Spanish, Chinese (Simplified), and French make up the remaining 4.09%.
+
+- **Insights:**
+  
+  - English is the primary language for course creation, reflecting its global appeal.
+
+  - Other languages have limited representation, indicating potential growth opportunities.
+
+ - **Recommendation:**
+
+  - Expand course offerings in Spanish, Chinese (Simplified), and French to cater to non-English-speaking audiences.
+
+## 5. Language Preferences by Category
+
+![5 bar chart](https://github.com/user-attachments/assets/cc6d6f75-b7af-4ba6-a307-f170d7b3f0a8)
+
+- **The bar chart shows language preferences across categories:**
+
+  - English is the most preferred language across all categories.
+
+  - Chinese (Simplified) and Spanish are also popular in Business and Data Science.
+
+- **Insights:**
+
+  - English is universally preferred, but Chinese (Simplified) and Spanish show strong demand in specific categories.
+ 
+- **Recommendation:**
+
+  - Optimize content in English for all categories.
+
+  - For Business and Data Science, consider creating more content in Chinese (Simplified) and Spanish.
+ 
 
 
