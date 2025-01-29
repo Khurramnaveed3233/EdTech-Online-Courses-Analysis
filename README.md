@@ -33,4 +33,6 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
   - For Professional Certificates, target categories like Business and IT, where career-oriented learners are more likely to enroll.
 
+## 2. Average Number of Views by Category, Sub-Category, and Language
 
+![table 1](https://github.com/user-attachments/assets/50e70029-5a71-46eb-8d56-10d600f13c46)
