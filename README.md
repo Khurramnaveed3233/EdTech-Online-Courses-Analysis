@@ -123,20 +123,20 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
 - **The bar chart shows the relationship between subtitle availability and views:**
   
- - Courses with 1-2 subtitles have the highest views.
+  - Courses with 1-2 subtitles have the highest views.
 
- - Courses with no subtitles or too many subtitles (e.g., 16+) have lower views.
+  - Courses with no subtitles or too many subtitles (e.g., 16+) have lower views.
 
 - **Insights:**
 
- - Subtitles significantly impact viewer engagement, with 1-2 subtitles being the optimal range.
+  - Subtitles significantly impact viewer engagement, with 1-2 subtitles being the optimal range.
 
- - Too many subtitles may overwhelm learners, while no subtitles limit accessibility.
+  - Too many subtitles may overwhelm learners, while no subtitles limit accessibility.
 
 - **Recommendation:**
 
-  - Ensure all courses have 1-2 subtitles to maximize engagement.
+   - Ensure all courses have 1-2 subtitles to maximize engagement.
 
-  - Avoid excessive subtitles, as they may reduce viewership.
+   - Avoid excessive subtitles, as they may reduce viewership.
  
   
