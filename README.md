@@ -181,8 +181,7 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
    ## 9. Impact of Skill Variety on Viewership
 
-   ## Summary of Recommendations
-   
+## Summary of Recommendations
 1.Focus on Courses in high-demand categories like Business and Data Science.
 2.Prioritize English content but expand into Chinese (Simplified) and Spanish for growth.
 3.Enhance Marketing and Finance courses with more skills to align with job market demands.
