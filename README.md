@@ -1,8 +1,9 @@
 # EdTech-Online-Courses-Analysis
 This project analyzes an EdTech platform's course data to uncover trends and insights. The analysis is based on a Power BI dashboard and addresses key business questions to help the client make data-driven decisions.
 
+[Power BI Project Dashboard.pdf](https://github.com/user-attachments/files/18584344/Power.BI.Project.Dashboard.pdf)
 
-![schema](https://github.com/user-attachments/assets/d94e8c87-bcb3-4d9d-977e-e8cd8d2322ce)
+![schema](https://github.com/user-attachments/assets/b8fee576-58dd-40b8-8563-fcc52b6ff6a7)
 
 ## Key Questions Addressed
 1. Distribution of course types across categories.
