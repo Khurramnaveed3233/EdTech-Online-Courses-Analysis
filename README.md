@@ -138,5 +138,24 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
    - Ensure all courses have 1-2 subtitles to maximize engagement.
 
    - Avoid excessive subtitles, as they may reduce viewership.
- 
+
+ ## 7. Top Instructors by Category and Sub-Category
+
+ ![7 table](https://github.com/user-attachments/assets/b21cffa5-26c2-4476-9a57-5403650be703)
+
+   - **The table lists instructors with high ratings (e.g., 4.9) across categories.**
+
+     - Top instructors include Daniel, Dr. Abas, and Prof. Richa.
+
+  - **Insights:**
+
+     - High-rated instructors consistently deliver quality content and engage learners effectively.
+   
+   - **Recommendation:**
+
+     - Collaborate with top instructors like Daniel and Dr. Abas to create new content.
+
+     - Highlight these instructors in marketing campaigns to attract more learners.
+
+     
   
