@@ -17,6 +17,8 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
 ## 1. Distribution of Course Types Across Categories
 
+![bar chart](https://github.com/user-attachments/assets/4f9f636b-b2e0-4603-9bf0-4b8a7b2468fc)
+
 - **Type:** Bar Chart
 - **Description:** The bar chart shows the distribution of course types: Courses, Specializations, and Professional Certificates and courses dominate with 746 instances, followed by 
                    specializations (132) and Professional Certificates (fewer in number).
