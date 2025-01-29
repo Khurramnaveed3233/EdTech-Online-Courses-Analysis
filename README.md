@@ -117,5 +117,26 @@ This project analyzes an EdTech platform's course data to uncover trends and ins
 
   - For Business and Data Science, consider creating more content in Chinese (Simplified) and Spanish.
  
+## 6. Impact of Subtitles on Views
 
+![6 line chart](https://github.com/user-attachments/assets/25c8c471-3c83-4f65-92c1-cfb9bded6951)
 
+- **The bar chart shows the relationship between subtitle availability and views:**
+  
+ - Courses with 1-2 subtitles have the highest views.
+
+ - Courses with no subtitles or too many subtitles (e.g., 16+) have lower views.
+
+- **Insights:**
+
+ - Subtitles significantly impact viewer engagement, with 1-2 subtitles being the optimal range.
+
+ - Too many subtitles may overwhelm learners, while no subtitles limit accessibility.
+
+- **Recommendation:**
+
+  - Ensure all courses have 1-2 subtitles to maximize engagement.
+
+  - Avoid excessive subtitles, as they may reduce viewership.
+ 
+  
